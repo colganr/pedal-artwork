@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="zendrive pedalpcb 125b.svg"
+   sodipodi:docname="zendrive pedalpcb 125b side jacks.svg"
    inkscape:version="1.0beta2 (f3d5b5a, 2020-03-13)"
    id="svg2118"
    version="1.1"
@@ -2113,7 +2113,7 @@
      inkscape:window-height="1027"
      inkscape:window-width="1920"
      showgrid="false"
-     inkscape:current-layer="g837"
+     inkscape:current-layer="g5058"
      inkscape:document-units="mm"
      inkscape:cy="573.2786"
      inkscape:cx="453.2317"
@@ -2132,7 +2132,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2313,7 +2313,7 @@
                      y="126.75732"
                      x="44.586315"
                      id="tspan5040"
-                     sodipodi:role="line">IN</tspan></text>
+                     sodipodi:role="line" /></text>
                 <text
                    xml:space="preserve"
                    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.09738px;line-height:1.25;font-family:Conthrax;-inkscape-font-specification:'Conthrax, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.258115"
@@ -2324,7 +2324,7 @@
                      id="tspan5044"
                      x="1.9542302"
                      y="126.75732"
-                     style="font-size:2.06492px;stroke-width:0.258115">OUT</tspan></text>
+                     style="font-size:2.06492px;stroke-width:0.258115" /></text>
                 <text
                    id="text5050"
                    y="126.75732"
@@ -2337,20 +2337,10 @@
                      id="tspan5048"
                      sodipodi:role="line">DC</tspan></text>
                 <path
-                   style="fill:#000000;stroke:#000000;stroke-width:0.25811458px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-                   d="m 0.37070805,125.48751 -0.711177,1.23178 H 1.0225421 Z"
-                   id="path5052"
-                   inkscape:connector-curvature="0" />
-                <path
                    inkscape:connector-curvature="0"
                    id="path5054"
                    d="m 21.935945,125.38388 h -1.42233 l 0.6815,1.1804 z"
                    style="fill:#000000;stroke:#000000;stroke-width:0.25811458px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-                <path
-                   style="fill:#000000;stroke:#000000;stroke-width:0.25811458px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-                   d="m 43.832937,125.38388 h -1.42233 l 0.6815,1.1804 z"
-                   id="path5056"
-                   inkscape:connector-curvature="0" />
               </g>
             </g>
           </g>
